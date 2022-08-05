@@ -1,3 +1,5 @@
+A coding challenge.
+
 You are tasked with programming a clock with too much functionality.
 <br>
 Write functionality that performs the following when given a specific time:
@@ -13,3 +15,9 @@ Conversion from one Time Zone to Another
 Return the angle between the Clock Hands
 <br>
 One custom function of your choosing
+
+
+Todo:
+front-end
+refactor to add re-usable functions for various pieces
+find good formula for roman hour conversion
