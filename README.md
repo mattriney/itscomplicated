@@ -18,6 +18,8 @@ One custom function of your choosing
 
 
 Todo:
-front-end
+front-end creation
+<br>
 refactor to add re-usable functions for various pieces
+<br>
 find good formula for roman hour conversion
