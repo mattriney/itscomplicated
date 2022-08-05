@@ -1,4 +1,4 @@
-A coding challenge.
+A coding challenge that I recently completed.
 
 You are tasked with programming a clock with too much functionality.
 <br>
