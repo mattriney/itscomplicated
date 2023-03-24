@@ -23,4 +23,4 @@ front-end creation
 <br>
 refactor to add re-usable functions for various pieces
 <br>
-find good formula for roman hour conversion
+find good function for roman hour conversion
